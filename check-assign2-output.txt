@@ -1,0 +1,18 @@
+---Host/Student info----
+
+Running on Tue Nov 12 01:56:25 PM EST 2024
+Run by root - () on host
+ Static hostname: aalok-generic-vm
+      Machine ID: ed4b4a79e15d4d8c907ef20d86fdf99b
+Operating System: Ubuntu 24.04.1 LTS
+9ac9629390cbcae160fd061a74ce1178  ./check-assign2-script.sh - 9ac9629390cbcae160fd061a74ce1178  -
+------------------------
+
+---Start of Assignment2.sh Check------
+Retrieved makecontainers.sh script
+---Running makecontainers.sh----------
+Retrieving script library file
+This script performs many tasks. Please be patient
+To see more about what it is doing as it does it, use the --verbose option
+You may ignore any messages about Open vSwitch or dpkg-preconfigure being unable to re-open stdin
+DO NOT use control-Z when this script is running.
